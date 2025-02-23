@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🤓 I'm a freelance full-stack developer from Belgium 🇧🇪
-- 🌱 I'm currently working on @WinampAudio web platforms
+- 🌱 Available for hire! 
 - 🛠️ Sometimes I write on my [blog](https://simondepelchin.be/articles)
 - 🛠️ I documented all the tools I use regularly on my [/uses](https://simondepelchin.be/uses)
 
